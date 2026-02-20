@@ -1,11 +1,9 @@
 <div align="center">
   
   <h1>sup yo.</h1>
-  <p>Learning Tinkerer</p>
   
   <h2>About</h2>
   <p>I love coding and gaming. I like learning new things and trying out different projects. I mostly work on unblocked games stuff, but I'm also learning to be a fullstack JavaScript developer.</p>
-  
   <p>I really like Roblox asyms like Forsaken and PWNED By 14:00. My favorite characters are Builderman and JX1DX1 respectively.</p>
   
   <h2>Skills</h2>
