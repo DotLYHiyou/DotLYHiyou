@@ -8,9 +8,9 @@
 </p>
 <p>I like doing programming as a cozy hobby and a cool pastime as well as a future career</p>
 
-<h4>Fun Facts about meh:</h4>
+<h4>smol facts about me:</h4>
 <p>- I'm a jack of all trades, master of none.</p>
-<p>- I used to make Roblox Forsaken my whole personality, but that quickly changed. <br>(fyi its influence is still running rampant in a lot of my work)</p>
+<p>- I <i><b>used</b></i> to make Roblox Forsaken my whole personality, but that quickly changed. <br>(fyi its influence is still running rampant in a lot of my work)</p>
 <p align="center">
   <table>
     <tr>
