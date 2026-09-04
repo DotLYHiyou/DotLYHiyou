@@ -1,5 +1,6 @@
 <div align=center>
-<h3>I'm DotLYHiyou, an aspiring software engineer.</h3>
+  <h1>README CURRENTLY UNDER HEAVY CONSTRUCTION</h1>
+<h3>I'm DotLYHiyou, an aspiring software (or ML/AI) engineer.</h3>
 <p align="center">
   <a href="https://github.com/DotLYHiyou">
     <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" alt="My Skills" />
@@ -9,5 +10,23 @@
 
 <h4>Fun Facts about meh:</h4>
 <p>- I'm a jack of all trades, master of none.</p>
-<p>- I do a number of in person programming activites such as FIRST Competitions</p>
-<p>readme still in progress</p>
+<p>- I used to make Roblox Forsaken my whole personality, but that quickly changed. <br>(fyi its influence is still running rampant in a lot of my work)</p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <a href="https://www.youtube.com/results?search_query=Weather+Girl+Flavor+Foley">
+          <img src="https://raw.githubusercontent.com/github/explore/main/topics/music/music.png" width="120" height="120" alt="Weather Girl Album Cover" style="border-radius: 8px;" />
+        </a>
+      </td>
+      <td valign="middle">
+        <sub>ON REPEAT</sub>
+        <h3>Weather Girl</h3>
+        <p><b>Flavor Foley</b></p>
+        <a href="https://www.youtube.com/results?search_query=Weather+Girl+Flavor+Foley">
+          <img src="https://img.shields.io/badge/▶_Listen_Now-38BDF8?style=for-the-badge" alt="Listen" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
