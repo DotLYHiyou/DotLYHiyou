@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align=center>
+<h3>I'm DotLYHiyou, an aspiring software engineer.</h3>
+<p align="center">
+  <a href="https://github.com/DotLYHiyou">
+    <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" alt="My Skills" />
+  </a>
+</p>
+<p>I like doing programming as a cozy hobby and a cool pastime as well as a future career</p>
 
-<!--
-**DotLYHiyou/DotLYHiyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Fun Facts about meh:</h4>
+<p>- I'm a jack of all trades, master of none.</p>
+<p>- I do a number of in person programming activites such as FIRST Competitions</p>
+<p>readme still in progress</p>
