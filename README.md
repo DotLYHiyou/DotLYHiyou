@@ -14,14 +14,14 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="200">
         <a href="https://www.youtube.com/results?search_query=Weather+Girl+Flavor+Foley">
-          <img src="https://raw.githubusercontent.com/github/explore/main/topics/music/music.png" width="120" height="120" alt="Weather Girl Album Cover" style="border-radius: 8px;" />
+          <img src="favsongoat.jpg" width="180" height="180" alt="Weather Girl Album Cover" style="border-radius: 8px;" />
         </a>
       </td>
       <td valign="middle">
         <sub>ON REPEAT</sub>
-        <h3>Weather Girl</h3>
+        <h2>Weather Girl</h2>
         <p><b>Flavor Foley</b></p>
         <a href="https://www.youtube.com/results?search_query=Weather+Girl+Flavor+Foley">
           <img src="https://img.shields.io/badge/▶_Listen_Now-38BDF8?style=for-the-badge" alt="Listen" />
