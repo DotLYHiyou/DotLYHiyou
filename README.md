@@ -1,4 +1,3 @@
-
 <div align=center>
   <img width="650" height="380" alt="TeapotParadiseRender" src="https://github.com/user-attachments/assets/6bdcf1ec-dd16-4e38-93ff-d8434b91d691" />
 <h2>I'm DotLYHiyou, an aspiring software (ML looks better ngl) engineer.</h3>
@@ -7,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" alt="My Skills" />
   </a>
 </p>
-<p>I like doing programming as a cozy, laid-back hobby and a cool pastime as well as a future career</p>
+<p>I like doing programming as a cozy, laid-back hobby as well as a future career.</p>
 <p align="center">
   <table>
     <tr>
