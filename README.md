@@ -1,5 +1,6 @@
-<img width="1023" height="650" alt="TeapotParadiseRender" src="https://github.com/user-attachments/assets/6bdcf1ec-dd16-4e38-93ff-d8434b91d691" />
+
 <div align=center>
+  <img width="650" height="380" alt="TeapotParadiseRender" src="https://github.com/user-attachments/assets/6bdcf1ec-dd16-4e38-93ff-d8434b91d691" />
 <h2>I'm DotLYHiyou, an aspiring software (or ML/AI, depending on the weather) engineer.</h3>
 <p align="center">
   <a href="https://github.com/DotLYHiyou">
